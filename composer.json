@@ -1,0 +1,42 @@
+{
+    "name": "innmind/foundation",
+    "type": "library",
+    "description": "Foundation packages for the Innmind ecosystem",
+    "keywords": [],
+    "homepage": "http://github.com/innmind/foundation",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Baptiste Langlade",
+            "email": "baptiste.langlade@hey.com"
+        }
+    ],
+    "support": {
+        "issues": "http://github.com/innmind/foundation/issues"
+    },
+    "require": {
+        "php": "~8.2",
+        "innmind/immutable": "~5.15",
+        "innmind/http": "^8.0",
+        "innmind/operating-system": "~6.0",
+        "innmind/reflection": "~5.2",
+        "innmind/math": "~6.1",
+        "innmind/xml": "~8.0",
+        "innmind/json": "~1.4",
+        "innmind/hash": "~1.7",
+        "innmind/encoding": "~2.0",
+        "innmind/specification": "~4.1",
+        "innmind/http-transport": "~8.0",
+        "innmind/filesystem": "~8.1",
+        "innmind/file-watch": "~5.0",
+        "innmind/time-continuum": "~4.1",
+        "innmind/time-warp": "~4.0",
+        "innmind/server-control": "~6.0",
+        "innmind/server-status": "~5.0",
+        "innmind/url": "~4.4",
+        "innmind/validation": "~2.0",
+        "innmind/media-type": "~2.3",
+        "innmind/io": "~3.2",
+        "innmind/ip": "~3.2"
+    }
+}
