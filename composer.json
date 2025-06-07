@@ -22,6 +22,7 @@
         "innmind/reflection": "~5.2",
         "innmind/math": "~6.1",
         "innmind/xml": "~8.0",
+        "innmind/html": "~7.0",
         "innmind/json": "~1.4",
         "innmind/hash": "~1.7",
         "innmind/encoding": "~2.0",
