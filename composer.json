@@ -32,7 +32,7 @@
         "innmind/file-watch": "~5.0",
         "innmind/time-continuum": "~4.2",
         "innmind/time-warp": "~4.0",
-        "innmind/server-control": "~6.0",
+        "innmind/server-control": "~6.1",
         "innmind/server-status": "~5.0",
         "innmind/url": "~4.4",
         "innmind/validation": "~2.0",
