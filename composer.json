@@ -37,7 +37,7 @@
         "innmind/url": "~4.4",
         "innmind/validation": "~2.0",
         "innmind/media-type": "~2.3",
-        "innmind/io": "~3.2",
+        "innmind/io": "~3.3",
         "innmind/ip": "~3.2",
         "innmind/http-server": "~5.0",
         "innmind/cli": "~4.0"
