@@ -41,6 +41,7 @@
         "innmind/ip": "~3.2",
         "innmind/http-server": "~5.0",
         "innmind/cli": "~4.0",
-        "innmind/router": "~5.0"
+        "innmind/router": "~5.0",
+        "innmind/async": "~1.0"
     }
 }
