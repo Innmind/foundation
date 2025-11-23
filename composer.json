@@ -15,7 +15,7 @@
         "issues": "http://github.com/innmind/foundation/issues"
     },
     "require": {
-        "php": "~8.2",
+        "php": "~8.4",
         "innmind/immutable": "~5.20",
         "innmind/http": "~8.0",
         "innmind/operating-system": "~6.2",
