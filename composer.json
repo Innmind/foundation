@@ -17,6 +17,7 @@
     "require": {
         "php": "~8.4",
         "innmind/immutable": "~6.0",
+        "innmind/mutable": "~1.0",
         "innmind/http": "~9.0",
         "innmind/operating-system": "~7.0",
         "innmind/reflection": "~5.3",
